@@ -2,6 +2,8 @@
 Ransomware - 0.0.0.0
 
 By Carlos Henrique Barros Silva Campos
+
+OBS: Script para total didática.
 """
 import os
 import glob
